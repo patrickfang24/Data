@@ -1,6 +1,6 @@
 ### About ### 
 
-Welcome to my repository of miscellaneous data-related projects! My name is Patrick and I'm currently on the analytics team @ Airbnb. I'm excited to share some of the one-off projects I've taken on outside of work, feel free to reach out to me if you have any questions! [Linkedin](https://www.linkedin.com/in/pfangg/)
+Welcome to my repository of miscellaneous data-related projects! My name is Patrick and I'm currently on the analytics team @ Airbnb. I'm excited to share some of the one-off projects I've taken on outside of work, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/pfangg/) if you have any questions! 
 
 ### [WIP] List of projects I want to cover: ### 
 * __Visualization__
