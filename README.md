@@ -1,8 +1,16 @@
-### About ### 
+### About me ### 
 
-Welcome to my repository of miscellaneous data-related projects! My name is Patrick and I'm currently on the analytics team @ Airbnb. I'm excited to share some of the one-off projects I've taken on outside of work, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/pfangg/) if you have any questions! 
+My name is Patrick I'm on the analytics team @ Airbnb. Over the past 4 years I've worked on a variety of different teams & projects at high-growth marketplace companies, responsiblites ranging from supporting product teams (feature deep dives, experimentation design & analysis, events instrumentation, churn + retention modeling) to the optimization of marketing channels (media mix modeling, referral incentives, channel attribution, utm instrumentation) and improving operational efficiency (logistics fleet efficiency, market expansions, onboarding). And now I'm working in Sales!
 
-### [WIP] List of projects I want to cover: ### 
+### About this Repo ### 
+
+Welcome to my repository of miscellaneous data-related projects! I decided in 2019 that i'd like to share more of the projects I take on outside of work, and I'm excited that you're here! 
+
+[Linkedin](https://www.linkedin.com/in/pfangg/)
+[patrickfang24@gmail.com](patrickfang24@gmail.com)
+
+
+### List of projects I want to cover: ### 
 * __Visualization__
   * StockX Data challenge 2019
   * [TODO] Geo-based Mapping (Maybe use biking dataset) 
@@ -12,5 +20,3 @@ Welcome to my repository of miscellaneous data-related projects! My name is Patr
   * [TODO] Stock Market, Economics, Churn, Retention, Marketing Spend etc.
 * __Tooling__
   * [TODO](Web-Scraping, ETL's, Automation, Unit Testing, Piping data into Gsheets)
-
-
