@@ -6,7 +6,7 @@ My name is Patrick I'm on the analytics team @ Airbnb. Over the past 4 years I'v
 
 Welcome to my repository of miscellaneous data-related projects! I decided in 2019 that i'd like to share more of the projects I take on outside of work, and I'm excited that you're here! 
 
-[Linkedin](https://www.linkedin.com/in/pfangg/)
+[Linkedin](https://www.linkedin.com/in/pfangg/) || 
 [patrickfang24@gmail.com](patrickfang24@gmail.com)
 
 
