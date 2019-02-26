@@ -1,14 +1,15 @@
 ### About me ### 
 
-My name is Patrick I'm on the analytics team @ Airbnb. Over the past 4 years I've worked on a variety of different teams & projects at high-growth marketplace companies, responsiblites ranging from supporting product teams (feature deep dives, experimentation design & analysis, events instrumentation, churn + retention modeling) to the optimization of marketing channels (media mix modeling, referral incentives, channel attribution, utm instrumentation) and improving operational efficiency (logistics fleet efficiency, market expansions, onboarding). And now I'm working in Sales!
+My name is Patrick I'm on the analytics team @ Airbnb. Over the past 4 years I've worked within a variety of different teams at high-growth marketplace companies, with responsiblites ranging from **supporting product teams** (feature deep dives, experimentation design & analysis, events instrumentation, churn + retention modeling) to **optimizing marketing channels** (media mix modeling, referral incentives, channel attribution, utm instrumentation) **and also improving operational efficiency** (logistics fleet efficiency, market expansions, onboarding). And now I'm working on Sales Analytics!
 
-### About this Repo ### 
-
-Welcome to my repository of miscellaneous data-related projects! I decided in 2019 that i'd like to share more of the projects I take on outside of work, and I'm excited that you're here! 
 
 [Linkedin](https://www.linkedin.com/in/pfangg/) || 
 [patrickfang24@gmail.com](patrickfang24@gmail.com)
 
+
+### About this Repo ### 
+
+My repository of miscellaneous data-related project I take on outside of work. 
 
 ### List of projects I want to cover: ### 
 * __Visualization__
